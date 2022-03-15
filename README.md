@@ -4,8 +4,14 @@ A custom **user.css** for **Joomla4 Atum Administrator template** with minor and
 ## Where to put this file
 This is a css override (_user.css_) for _some elements_ of the new **Joomla4 Atum Administrator template**;
 
-File Location:
+For _**below J4.10**_ File Location
 > **/administrator/templates/atum/css/**_user.css_ 
+> 
+
+
+For _**J4.10 and above**_ File Location
+> **/media/templates/administrator/atum/css/**_user.css_
+> 
 
 _**Important Note:**_ if you already have a "_user.css_" in this folder, then some css overrides may already be in place, simply add the changes at the end of the existing file.
 
